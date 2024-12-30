@@ -113,14 +113,6 @@ This monorepo consists of three main sections:
 - `yarn dev:frontend` To boot the frontend locally (from root of repo).
 - `yarn dev:collector` To then run the document collector (from root of repo).
 
-## 👋 Contributing
-
-- create issue
-- create PR with branch name format of `<issue number>-<short name>`
-- LGTM from core-team
-
-</div>
-
 ---
 
 Copyright © 2024 [Vedant Kohad][https://github.com/kohadved]. <br />
